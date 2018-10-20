@@ -1,0 +1,1 @@
+This is a small game I am trying to make to practice version control and JavaScript
